@@ -1,6 +1,7 @@
 2076444
 2085213
 
-[processori.md](processori.md)
-[schede_madri.md](schede_maadri.md)
+componenti
+[processori.md](componenti/processori.md)
+[schede_madri.md](componenti/schede_maadri.md)
 Elettronica Padovana
